@@ -1,0 +1,13 @@
+blocks 0 256 512 512
+grass 16 240
+grass 24 240
+grass 48 240
+frog 30 232
+
+grass 50 240
+grass 94 240
+grass 190 240
+grass 240 240
+
+frog 220 232
+EOF

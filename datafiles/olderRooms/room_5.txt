@@ -1,0 +1,7 @@
+blocks 0 256 512 512
+blocks 196 -64 256 256
+blocks 0 -192 64 192
+blocks 64 -192 256 -128
+spring 160 224
+bat 32 205
+EOF

@@ -1,0 +1,6 @@
+blocks 0 256 512 512
+blocks 192 0 320 256
+blocks 256 -128 320 256
+blocks 192 -128 256 -96
+chest 192 -32 75
+EOF

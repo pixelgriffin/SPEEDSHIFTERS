@@ -1,0 +1,8 @@
+blocks 0 256 512 512
+blocks 32 224 192 256
+slopeR 0 224
+slopeL 192 224
+blocks 128 192 160 224
+slopeL 160 192
+blocks 0 0 256 160
+EOF

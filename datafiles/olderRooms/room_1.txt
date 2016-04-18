@@ -1,0 +1,4 @@
+blocks 0 256 512 512
+blocks 192 128 256 256
+grass 200 112
+EOF

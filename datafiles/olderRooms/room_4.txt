@@ -1,0 +1,13 @@
+blocks 0 256 32 512
+blocks 224 256 256 512
+blocks 128 352 160 512
+crate 128 320
+crate 128 288
+crate 128 256
+crate 128 224
+crate 128 192
+crate 128 160
+crate 128 128
+crate 128 96
+lava 0 288 256 512
+EOF

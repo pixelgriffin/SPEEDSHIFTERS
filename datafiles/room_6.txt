@@ -1,0 +1,7 @@
+blocks 0 256 512 512
+blocks 32 -192 96 192
+blocks 32 -224 480 -192
+blocks 416 -128 480 256
+spring 384 224
+chest 384 -256 30 
+EOF
